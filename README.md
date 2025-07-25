@@ -8,9 +8,13 @@ This repository contains all code, protocols, and documentation for the research
 
 **Strategic Nonviolent Campaign (2025–2029) to Resist Autocratic Consolidation**
 
-- **Lead:** Paul Hugel
+- **Lead:** Paul Garrett Hugel
 - **OSF Registration:** https://osf.io/x9qa6/
 - **Status:** Public preregistration, open science
+## Citations & DOIs
+
+- **Main Project DOI:** [10.17605/OSF.IO/X9QA6](https://doi.org/10.17605/OSF.IO/X9QA6)
+- **Pre-registration DOI:** [10.17605/OSF.IO/2AGSQ](https://doi.org/10.17605/OSF.IO/2AGSQ)
 
 ## Contents
 
@@ -24,6 +28,7 @@ This repository contains all code, protocols, and documentation for the research
 This repository is formally linked to its registered OSF project for complete provenance, reproducibility, and collaborative research.
 
 - **OSF Project:** [Strategic Nonviolent Campaign (2025–2029)](https://osf.io/x9qa6/)
+
 
 ## AI Transparency Statement
 
