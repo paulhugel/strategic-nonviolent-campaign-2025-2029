@@ -14,11 +14,23 @@ This repository contains all code, protocols, and documentation for the open sci
 
 ## Citations & DOIs
 
-- **Main Project DOI:** [10.17605/OSF.IO/X9QA6](https://doi.org/10.17605/OSF.IO/X9QA6)
+- **Main Project DOI:**     [10.17605/OSF.IO/X9QA6](https://doi.org/10.17605/OSF.IO/X9QA6)
 - **Pre-registration DOI:** [10.17605/OSF.IO/2AGSQ](https://doi.org/10.17605/OSF.IO/2AGSQ)
 - **Component DOIs:**
-    - Civil Resistance (Pillar 1): [10.17605/OSF.IO/QVZW3](https://doi.org/10.17605/OSF.IO/QVZW3)
-    - *(Add more pillar DOIs as needed)*
+  
+    - Exploratory Hypothesis Framework      [10.17605/OSF.IO/QVZW3](https://doi.org/10.17605/OSF.IO/QVZW3)
+    - Civil Resistance (Pillar 1):          [10.17605/OSF.IO/2M8FV](https://doi.org/10.17605/OSF.IO/2M8FV)
+    - Electoral Defense (Pillar 2):         [10.17605/OSF.IO/GX4WS](https://doi.org/10.17605/OSF.IO/GX4WS)
+    - Institutional Safeguards (Pillar 3):  [10.17605/OSF.IO/WUDMX](https://doi.org/10.17605/OSF.IO/WUDMX)
+    - Narrative & Media Framing (Pillar 4): [10.17605/OSF.IO/UKE8V](https://doi.org/10.17605/OSF.IO/UKE8V)
+    - International Solidarity (Pillar 5):  [10.17605/OSF.IO/QJHUF](https://doi.org/10.17605/OSF.IO/QJHUF)
+    - Research Design:                      [10.17605/OSF.IO/XRUAZ](https://doi.org/10.17605/OSF.IO/XRUAZ)
+    - Theoretical framework:                [10.17605/OSF.IO/DCFE4](https://doi.org/10.17605/OSF.IO/DCFE4)
+    - Methodology:                          [10.17605/OSF.IO/SZVY9](https://doi.org/10.17605/OSF.IO/SZVY9)
+    - AI Transparency & Anomaly Reports:    [10.17605/OSF.IO/693EH](https://doi.org/10.17605/OSF.IO/693EH)
+    - Imagery:                              [10.17605/OSF.IO/2HWJ8](https://doi.org/10.17605/OSF.IO/2HWJ8)
+    - References:                           [10.17605/OSF.IO/HU5W6](https://doi.org/10.17605/OSF.IO/HU5W6)
+
 
 ---
 
